@@ -1,0 +1,26 @@
+{
+    "vehicles": [
+        {
+            "name": "vehicle_1",
+            "type": "vehicle.audi.etron",
+            "spawn_location": {
+                "x": -45,
+                "y": 60,
+                "z": 0.2,
+                "yaw": 270
+            },
+            "direction": -1
+        },
+        {
+            "name": "vehicle_1",
+            "type": "vehicle.audi.etron",
+            "spawn_location": {
+                "x": -49,
+                "y": -20,
+                "z": 0.2,
+                "yaw": 90
+            },
+            "direction": 1
+        }
+    ]
+}

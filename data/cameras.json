@@ -1,0 +1,148 @@
+{"cameras": 
+    [
+        {
+            "name": "camera_1",
+            "type": "sensor.camera.rgb",
+            "spawn_location": {
+                "x": -60,
+                "y": 0,
+                "z": 7,
+                "pitch": -30,
+                "yaw": 30,
+                "roll": 0
+            }
+         },
+         {
+            "name": "camera_2",
+            "type": "sensor.camera.rgb",
+            "spawn_location": {
+                "x": -60,
+                "y": 40,
+                "z": 7,
+                "pitch": -30,
+                "yaw": -60,
+                "roll": 0
+            }
+         },
+         {
+            "name": "camera_3",
+            "type": "sensor.camera.rgb",
+            "spawn_location": {
+                "x": -65,
+                "y": 15,
+                "z": 7,
+                "pitch": -30,
+                "yaw": 0,
+                "roll": 0
+            }
+         },
+         {
+            "name": "camera_4",
+            "type": "sensor.camera.rgb",
+            "spawn_location": {
+                "x": -35,
+                "y": 15,
+                "z": 7,
+                "pitch": -30,
+                "yaw": 180,
+                "roll": 0
+            }
+         },
+         {
+            "name": "camera_5",
+            "type": "sensor.camera.rgb",
+            "spawn_location": {
+                "x": -45,
+                "y": 35,
+                "z": 7,
+                "pitch": -27,
+                "yaw": -86,
+                "roll": 0
+            }
+         },
+         {
+            "name": "camera_bev",
+            "type": "sensor.camera.rgb",
+            "spawn_location": {
+                "x": -45,
+                "y": 20,
+                "z": 60,
+                "pitch": -90,
+                "yaw": 0,
+                "roll": 0
+            }
+         },
+         {
+            "name": "camera_1_seg",
+            "type": "sensor.camera.semantic_segmentation",
+            "spawn_location": {
+                "x": -60,
+                "y": 0,
+                "z": 7,
+                "pitch": -30,
+                "yaw": 30,
+                "roll": 0
+            }
+         },
+         {
+            "name": "camera_2_seg",
+            "type": "sensor.camera.semantic_segmentation",
+            "spawn_location": {
+                "x": -60,
+                "y": 40,
+                "z": 7,
+                "pitch": -30,
+                "yaw": -60,
+                "roll": 0
+            }
+         },
+         {
+            "name": "camera_3_seg",
+            "type": "sensor.camera.semantic_segmentation",
+            "spawn_location": {
+                "x": -65,
+                "y": 15,
+                "z": 7,
+                "pitch": -30,
+                "yaw": 0,
+                "roll": 0
+            }
+         },
+         {
+            "name": "camera_4_seg",
+            "type": "sensor.camera.semantic_segmentation",
+            "spawn_location": {
+                "x": -35,
+                "y": 15,
+                "z": 7,
+                "pitch": -30,
+                "yaw": 180,
+                "roll": 0
+            }
+         },
+         {
+            "name": "camera_5_seg",
+            "type": "sensor.camera.semantic_segmentation",
+            "spawn_location": {
+                "x": -45,
+                "y": 35,
+                "z": 7,
+                "pitch": -27,
+                "yaw": -86,
+                "roll": 0
+            }
+         },
+         {
+            "name": "camera_bev_seg",
+            "type": "sensor.camera.semantic_segmentation",
+            "spawn_location": {
+                "x": -45,
+                "y": 20,
+                "z": 60,
+                "pitch": -90,
+                "yaw": 0,
+                "roll": 0
+            }
+         }
+    ]
+}
